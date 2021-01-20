@@ -1,0 +1,52 @@
+.asd{
+    margin: 10px;
+    padding: 100px;
+    border-radius: 20px;
+    background-color: #fceae8;
+}
+.pr{
+    color:  #b97169;
+    font-weight: 700;
+    font-size:x-large;
+}
+.col-md-7{
+    padding: 50px;
+}
+.Buy{
+   background-image: linear-gradient( #6b1c13 ,  #b97169 );
+   color: white;
+   border-radius: 8px;
+   padding: 5px 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.jkl{
+    height: 320px;
+    margin: 10px;
+}
+#j{
+    background-color: rgb(89, 204, 233);
+}
+#k{
+    background-color: blueviolet;
+}
+#l{
+    background-color: darkgrey;
+}
+#a,#s,#d{
+    text-align: center;
+}
+#a{
+    color: rgb(29, 92, 151);
+}
+#s{
+    color: rgb(63, 20, 104);
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightslategray;
+}
+footer{
+    text-align: center;
+}
